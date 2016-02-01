@@ -12,6 +12,7 @@ angular.module('appArsApp')
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
+      'test 3',
       'Karma'
     ];
   });
